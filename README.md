@@ -1,3 +1,3 @@
 # Boston Housing Price Prediction
 
-Data sciende term project
+Data science term project
