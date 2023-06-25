@@ -1,6 +1,6 @@
 # Boston Housing Price Prediction
 
-Data Science term project
+Introduction to Data Science term project
 
 Used Linear Regression, Decision Tree Regression and Random Forest Regression
 
